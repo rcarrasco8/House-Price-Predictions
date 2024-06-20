@@ -1,5 +1,6 @@
 # House-Price-Predictions
 Introduction to Machine Learning: Supervised Learning Final Project by Roberto Carrasco
+All data was sourced from kaggle competition    https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 
 Repository has 5 files
